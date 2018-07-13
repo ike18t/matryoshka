@@ -1,0 +1,14 @@
+body * {
+  border: solid 1px red;
+  margin-left: 5px;
+  display: block;
+
+  h3 {
+    border: none;
+  }
+
+  .nav * {
+    border: none;
+    display: inline;
+  }
+}
